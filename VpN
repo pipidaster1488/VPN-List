@@ -1,7 +1,6 @@
-profile-title: 🐈‍⬛ VPN cat
+profile-title: ТЕСТ
 #profile-update-interval: 1
-#support-url: https://t.me/+SC1kvjHAVWVhNWFh
-#profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Не все мысли проходят через мозг, некоторые — только через цензуру“ | t.me/vpn_cat
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-vless://0b0e9802-3a94-4cb0-83e3-293b94a1ee2e@138.201.170.108:443?fp=chrome&host=cloudflare.vhub.pro&path=%2Fwebsocket&security=tls&sni=cloudflare.vhub.pro&type=ws#10.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+#support-url:
+#announce: тест
+#subscription-userinfo: upload=0; download=0; total=0;dom
+vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@vcdn-api3.game-call.com:443?type=xhttp&security=tls&host=vcdn-api3.game-call.com&path=/api/uploadFile/&mode=packet-up&extra={"path":"/api/uploadFile/","xmux":{"cMaxLifetimeMs":300000,"cMaxReuseTimes":100,"maxConcurrency":"16-32","maxConnections":0},"seqKey":"chunk_id","sessionKey":"X-Upload-Token","xPaddingKey":"hash","seqPlacement":"query","sessionIDKey":"X-Upload-Token","sessionIDTable":"Base62","xPaddingHeader":"X-Client-Version","xPaddingMethod":"tokenish","sessionIDLength":"21","sessionPlacement":"header","uplinkHTTPMethod":"GET","xPaddingObfsMode":true,"xPaddingPlacement":"queryInHeader","sessionIDPlacement":"header"}&sni=vcdn-api3.game-call.com&fp=edge&alpn=h2,http/1.1&encryption=none#Белые Списки
